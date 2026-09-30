@@ -56,6 +56,10 @@ Through this project, I practiced:
 - Improve responsive design for different screen sizes
 - Add additional cybersecurity learning resources
 
+##Output
+<img width="1790" height="1010" alt="image" src="https://github.com/user-attachments/assets/4a8fa7e0-d062-4145-ac29-ec6e69300442" />
+
+
 ## 👩‍💻 Author 
 
 **Vedanti Nimje**
